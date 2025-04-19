@@ -15,21 +15,13 @@
     <div align=left>
         <br>
 
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
-  </ul>
-</div>
-
-
 <!--Intro start-->
 
 - ☁️ I've keen interest in cloud computing. So,I'm learning **tecnologia**
 
 - 💬 Ask me about **html, css, javascript, nodejs, python, java ,go **
 
-- 📫 Feel free to reach me out **noeliacuellarchung84@gmail.com**
+- 📫 Feel free to reach me out **noeliacuellarchung270@gmail.com**
 
 </p>        
 <!--- stats (end) -->
